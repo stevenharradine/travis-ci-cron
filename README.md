@@ -1,4 +1,5 @@
 # travis-ci-cron
+Invokes Travis-CI to retest given roles.
 
 ## usage
 ### Install dependancies
